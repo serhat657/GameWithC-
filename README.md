@@ -1,1 +1,1 @@
-##  C++ programlama dili  ile Visual Studio'da Windows Form  uygulaması kullanarak Oyun Olusturma orneği
+##  C++ programlama dili kullanarak yapmış olduğum oyunun exe dosyası
