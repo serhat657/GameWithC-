@@ -1,1 +1,1 @@
-##  C++ programlama dili kullanarak yapmış olduğum oyunun setup.exe dosyası
+##  The setup.exe file of the game I developed using the C++ programming language.
